@@ -75,19 +75,6 @@ aside {
     background-color: #2589bd;
 }
 
-/*Changed footer class to footer element*/
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -105,24 +92,6 @@ footer h2 {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-/*Condensed similar benefit classes*/
-
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 
 /*Condensed section boxes to a single class*/
@@ -143,4 +112,35 @@ footer h2 {
 .section-box h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/*Condensed similar benefit classes*/
+
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefit img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/*Changed footer class to footer element*/
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
 }
