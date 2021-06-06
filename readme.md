@@ -6,11 +6,11 @@ Created a codebase that follows accessibility standards so that the site is opti
 
 ## Installation
 
-Download repository from https://github.com/kevinchewning/git-hw-week-1
+Download repository from https://github.com/kevinchewning/Code-Refactor
 
 ## Usage
 
-Site can be viewed at https://kevinchewning.github.io/git-hw-week-1/
+Site can be viewed at https://kevinchewning.github.io/Code-Refactor/
 
 ![Site Screenshot](assets/images/horiseon-screenshot.png)
 
