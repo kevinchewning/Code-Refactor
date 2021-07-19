@@ -12,7 +12,7 @@ Download repository from https://github.com/kevinchewning/git-hw-week-1
 
 Site can be viewed at https://kevinchewning.github.io/git-hw-week-1/
 
-![Site Screenshot](assets/images/horiseon-screenshot.png)
+![Site Screenshot](horiseon-screenshot.png)
 
 ## Credits
 
